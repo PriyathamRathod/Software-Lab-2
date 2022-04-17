@@ -310,7 +310,7 @@ void sweepMethod()
 
 int main()
 {		
-	int val[]={1,2,3,4,5,7,8};
+	int val[]={1,2,3,5,7,8,9,10};
 	
 	
 	int i;
